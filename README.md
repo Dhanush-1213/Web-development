@@ -1,4 +1,4 @@
-[README_icecream.md](https://github.com/user-attachments/files/25932432/README_icecream.md)
+
 # 🍦 Energize Ice Cream Shop
 
 A full-stack web application for a fictional ice cream shop — **Energize Ice Cream** — where customers can browse the menu, build a fully custom ice cream, manage their cart, and submit feedback. Built with vanilla HTML/CSS, React (via CDN), Node.js, Express, and MongoDB.
